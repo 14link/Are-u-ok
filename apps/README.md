@@ -4,14 +4,14 @@
 
 * 也兼容aarch64_generic平台，例如R2S、R4S、R5S、R68S等。
 
-* 适用于KoolCenter iStoreOS 22.03.X的软件包
+* 仅适用于KoolCenter iStoreOS 22.03.X的软件包
 
 #### 常用代理软件包 Commonly Used Proxy Packages
 |插件名|功能|下载|编译日期|
 | :----: | :----: | :----: | :----: |
 | [PassWall](https://github.com/xiaorouji/openwrt-passwall) | 科学工具 | [PassWall_25.5.16](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/PassWall_25.5.16_aarch64_a53_all_sdk_22.03.7.run) |2025-05-16|
 | [PassWall](https://github.com/xiaorouji/openwrt-passwall) | 科学工具 | [给小储存硬路由的PassWall](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/PassWall_25.5.16_aarch64_a53_small_sdk_22.03.7.run) |2025-05-16|
-| [PassWall2](https://github.com/xiaorouji/openwrt-passwall2) | 科学工具 | [PassWall2_25.5.7](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/PassWall2_25.5.7_aarch64_a53_all_sdk_22.03.7.run) |2025-05-08|
+| [PassWall2](https://github.com/xiaorouji/openwrt-passwall2) | 科学工具 | [PassWall2_25.5.15](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/PassWall2_25.5.15_aarch64_a53_all_sdk_22.03.7.run) |2025-05-15|
 | [SSR-Plus](https://github.com/fw876/helloworld) | 科学工具 | [SSR-Plus_189](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/SSR-Plus_189_aarch64_a53_all_sdk_22.03.7.run) |2025-05-12|
 | [OpenClash](https://github.com/vernesong/OpenClash) | 科学工具 | [OpenClash_0.46.086](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/OpenClash_0.46.086+aarch64_core.run) |2025-05-31|
 * passwall、passwall2、ssr-plus均使用 22.03.X sdk编译，依旧使用libopenssl1.1，无需libopenssl3依赖，安装后在服务里。
