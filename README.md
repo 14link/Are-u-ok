@@ -18,8 +18,8 @@
 
 
 #### 插件下载如何选平台：
-* aarch64_cortex-a53：小米AX3600、AX9000等，Rockchip系列的机器也可用（R2S、R4S、R5S、R6S、EasePi-R1等）
-* x86_64：N100、N150、J4104、J4125、J5005等小主机
-* aarch64_generic：Rockchip系列的机器（R2S、R4S、R5S、R6S、EasePi-R1等）
+* aarch64_cortex-a53：IPQ807x（小米AX3600、AX9000等），MT798x（360-T7、红米AX6000、AC1、AC3等）；
+* x86_64：各种英特尔、AMD电脑，也包括（N100、N150、J4105、J4125、J5005等）小主机；
+* aarch64_generic：Rockchip系列的机器（R2S、R4S、R5S、R6S、EasePi-R1等）；
 
-* 常见的就是aarch64_cortex-a53和x86_64；一般Rockchip系列也是用a53。
+* #### 常见的就是 aarch64_cortex-a53 和 x86_64；一般 Rockchip 系列也用 aarch64_cortex-a53 的插件。
