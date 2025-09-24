@@ -9,8 +9,8 @@
 #### 常用代理软件包 Commonly Used Proxy Packages
 |插件名|功能|下载|编译日期|
 | :----: | :----: | :----: | :----: |
-| [PassWall](https://github.com/xiaorouji/openwrt-passwall) | 科学工具 | [PassWall_25.9.19](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/PassWall_25.9.19_aarch64_a53_all_sdk_22.03.7.run) |2025-09-21|
-| [PassWall2](https://github.com/xiaorouji/openwrt-passwall2) | 科学工具 | [PassWall2_25.9.20](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/PassWall2_25.9.20_aarch64_a53_all_sdk_22.03.7.run) |2025-09-21|
+| [PassWall](https://github.com/xiaorouji/openwrt-passwall) | 科学工具 | [PassWall_25.9.23](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/PassWall_25.9.23_aarch64_a53_all_sdk_22.03.7.run) |2025-09-24|
+| [PassWall2](https://github.com/xiaorouji/openwrt-passwall2) | 科学工具 | [PassWall2_25.9.24](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/PassWall2_25.9.24_aarch64_a53_all_sdk_22.03.7.run) |2025-09-24|
 | [SSR-Plus](https://github.com/fw876/helloworld) | 科学工具 | [SSR-Plus_190](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/SSR-Plus_190_aarch64_a53_all_sdk_22.03.7.run) |2025-08-31|
 | [OpenClash](https://github.com/vernesong/OpenClash) | 科学工具 | [OpenClash_0.47.006](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/OpenClash_0.47.006+aarch64_core.run) |2025-09-21|
 * 不推荐passwall系列和ssr-plus一同安装，因为部分软件包可能存在冲突影响使用
@@ -41,9 +41,9 @@ sh 包名.run
 ```
 例
 ```console
-sh PassWall_25.9.19_aarch64_a53_all_sdk_22.03.7.run
+sh PassWall_25.9.23_aarch64_a53_all_sdk_22.03.7.run
 ```
 如果文件不在当前路径记得填写路径，下例
 ```console
-sh /tmp/upload/PassWall_25.9.19_aarch64_a53_all_sdk_22.03.7.run
+sh /tmp/upload/PassWall_25.9.23_aarch64_a53_all_sdk_22.03.7.run
 ```
